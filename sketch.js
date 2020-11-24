@@ -46,9 +46,9 @@ function setup() {
 	console.log (packageBody);
 	box1 = new Box(385,650,200,20);
 	box1.shapeColor = color(255,0,0);
-	box2 = new Box(200,650,100,20);
+	box2 = new Box(280,620,20,100);
 	box2.shapeColor = color(255,0,0);
-	box3 = new Box(600,650,100,20);
+	box3 = new Box(480,620,20,100);
 	box3.shapeColor = color(255,0,0);
 }
 
